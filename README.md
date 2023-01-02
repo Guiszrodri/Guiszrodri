@@ -3,6 +3,12 @@
 - Formado em Jornalismo e Marketing
 - Atualmente cursando linguagens de programação para entrar no mercado
 
+### 📱 Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-rodrigues-10a3ba4b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiszrodri/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guiszrodri)
+
 ### 📚 Linguagens estudadas:
 
 <div style="display: inline_block"><br/>
